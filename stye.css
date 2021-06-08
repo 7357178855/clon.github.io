@@ -1,0 +1,356 @@
+*{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+        margin: 0%;
+        padding: 0;
+        text-decoration: none;
+        list-style: none;
+        box-sizing: border-box;
+}
+.sec2 button{
+    width: auto;
+    margin-right: 5px;
+    margin-left: 4px;
+    font-weight: bold;
+    font-size: 90%;
+  
+
+}
+.nav1 nav ul li{width:12%;
+    list-style: none;
+}
+.nav1 nav ul li button{
+    font-size: 2vw;
+    size: 2vw;
+}
+.nav1 nav ul li button{
+    font-size: 2vw;
+    size: 2vw;
+}
+.nav1 nav ul li{width:100%;
+    list-style: none;
+}
+.nav1 nav ul li a{
+    color:rgb(30, 206, 212);
+    text-decoration:none;
+    font-size: 2vw;
+    font-weight: bold;
+padding: 0 5vw;
+}
+.nav1 nav ul{
+    height: 40px ;
+    display: flex;
+    justify-content:end;
+    align-items:center;
+}
+}
+header{
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+border: 2px solid black;
+margin: 0;
+position: sticky;
+top: 0;
+z-index: 5;
+}
+
+.contentwrapper{
+    width: 100%;
+}
+.contentwrapper img{
+    width: 100%;
+}
+.textwrapper{
+    width:100%;
+    position: relative;
+    margin-top: -25%;
+}
+.textwrapper p{
+    text-align: center;
+    color: white;
+    font-size: 2vw;
+}
+
+.contentwrapperr{
+    width: 100%;
+}
+.contentwrapperr img{
+    width: 100%;
+}
+.textwrapperr{
+    width:100%;
+    position: relative;
+    margin-top: -25%;
+}
+.textwrapperr p{
+    text-align: center;
+    color:rgb(70, 71, 69);
+    font-size: 2vw;
+}
+
+
+
+.second{
+    margin: auto;
+    box-shadow: 0 0px 1px 0px rgb(49, 48, 48);
+    height: auto;
+    width: 60%;
+    position: relative;
+    top: 20px; 
+    background-color: rgb(255, 255, 255);
+    border: 1px solid darkgray;
+    border-radius: 3px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+.mainform{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: auto;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.mainform p{
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    font-size: 12px;
+}
+.sec1 p{
+    font-size: 14px;
+    margin: 0% auto;
+    padding-top:2%;
+    text-align: center;
+}
+.sec1{
+    width: 100%;
+    height: auto;
+    color: white;
+    font-size: 2vw;
+    background-color: rgb(31, 30, 30);
+}
+.sec2{
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.form p{sss
+    margin-top: 2%;
+}
+.sec2 input{
+    width: 70%;
+    height: 20%;
+    margin-left: 5%;
+}
+
+.third{
+    
+    border-bottom:2px solid gray;
+    height: 15%;
+    width: 100%;
+    background-color: hsl(0, 0%, 100%);
+}
+ nav ul li{width:100%;
+    list-style: none;s
+}
+ nav ul li a{
+    color: darkgray;
+    text-decoration:none;
+    font-size: 2vw;
+    font-weight: bold;
+padding: 0 5vw;
+}
+
+nav ul li a:hover{
+    color: cyan;
+}
+
+ nav ul{
+    height: 40px ;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items:center;
+}
+.a1{width: 100px;
+    height: 100px;
+    background-color: burlywood;
+    margin:60px 20px 40px 20px;
+}
+.b1 p{ margin-top: auto;
+font-size:  20px;
+padding: 10px;
+}
+.a2{width: 100px;
+    
+    height: 100px;
+    margin:60px 20px 40px 20px;
+    background-color: rgb(88, 55, 12);
+}
+.b1{height: auto;
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+}
+.b2{
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+}
+.b2 p{padding: 10px;
+font-size: 20px;
+}
+.m22{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 440px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+.m11{
+    width:440px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.mf{width:100%;
+    height: auto;
+    display: flex;
+    flex-wrap:wrap ;
+    flex-direction: row;
+    justify-content: center;
+    box-shadow: 0px 1px 0px 0px gray;
+    align-items: center;
+}
+.m4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    align-items:center;
+}
+.a4{
+    width: 200px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+.port2{
+    width: 350px;
+    background-color: white;
+    margin:2% auto;
+    padding: 0%;
+    height: auto;
+}
+.port1
+{margin:2% auto;
+    width: 350px;
+    height: auto;
+    padding: 0%;
+    background-color:white;
+}
+.port2 p{
+    margin-top: 0px;
+}
+.port{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+ box-shadow: 0px 0.5px 0px 0px rgba(53, 52, 52, 0.418);
+}
+.grad{
+    text-align: center;
+    color: rgba(51, 50, 50, 0.699);
+}
+.gradp{
+   display: flex;
+   justify-content:space-evenly;
+   align-items: center;
+   flex-wrap: wrap;
+   flex-direction: row;
+}
+.bac2 p{
+    width: 100%;
+    padding-left: 10%;
+    text-align: left;
+}
+
+.bacblack{
+    width: 100%;
+    height: auto;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+    
+    background-color: rgb(31, 30, 30);
+}
+.bac1
+{
+    width: 300px;
+}
+.bac2{
+    width: 200px;
+}
+.text{
+
+    width: 100%;
+    background-color:white;
+    height: auto;
+    text-align: center;
+    font-size: 2vw;
+}
+.lady{
+    display: flex;
+    border: 2px solid rgba(128, 128, 128, 0.226);
+    border-radius: 3px;
+    height: auto;
+}
+.lad1
+{
+    width: 180px;
+    height: auto;
+}
+.lad1 img{
+    margin-top: auto;
+}
+
+.lad2{
+    width: 400px;
+    height: auto;
+    border-bottom: 1px solid gray;
+    
+   text-align: left;
+   padding-left: 5%;
+   padding-top: 7%;
+   background-color:white;
+}
+.pre{
+    text-align: center;
+}
+.ques{
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.171);
+    margin: auto;
+    padding: 40px;
+}
+.imagee{
+    padding:40px 0px 0px 50px ;
+}
